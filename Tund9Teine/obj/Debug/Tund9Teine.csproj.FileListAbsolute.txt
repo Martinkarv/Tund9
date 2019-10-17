@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\bin\Debug\Tund9Teine.exe.config
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\bin\Debug\Tund9Teine.exe
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\bin\Debug\Tund9Teine.pdb
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\obj\Debug\Tund9Teine.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\obj\Debug\Tund9Teine.exe
+C:\Users\karvm\source\repos\Tund9\Tund9Teine\obj\Debug\Tund9Teine.pdb

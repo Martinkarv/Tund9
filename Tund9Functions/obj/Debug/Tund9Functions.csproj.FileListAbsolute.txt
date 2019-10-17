@@ -1,0 +1,5 @@
+C:\Users\karvm\source\repos\Tund9\Tund9Functions\bin\Debug\Tund9Functions.exe.config
+C:\Users\karvm\source\repos\Tund9\Tund9Functions\bin\Debug\Tund9Functions.exe
+C:\Users\karvm\source\repos\Tund9\Tund9Functions\bin\Debug\Tund9Functions.pdb
+C:\Users\karvm\source\repos\Tund9\Tund9Functions\obj\Debug\Tund9Functions.exe
+C:\Users\karvm\source\repos\Tund9\Tund9Functions\obj\Debug\Tund9Functions.pdb

@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\Tund9\Tund9\bin\Debug\Tund9.exe.config
+C:\Users\karvm\source\repos\Tund9\Tund9\bin\Debug\Tund9.exe
+C:\Users\karvm\source\repos\Tund9\Tund9\bin\Debug\Tund9.pdb
+C:\Users\karvm\source\repos\Tund9\Tund9\obj\Debug\Tund9.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\Tund9\Tund9\obj\Debug\Tund9.exe
+C:\Users\karvm\source\repos\Tund9\Tund9\obj\Debug\Tund9.pdb
